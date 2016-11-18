@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.11.18)  18 NOV 2016 17:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.11.18)  18 NOV 2016 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -201,21 +201,21 @@ Package geometry Warning: Over-specification in `v'-direction.
 (./Test_document.aux)
 \openout1 = `Test_document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 102.
+(lastpage)             ! on input line 105.
 
 (p:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -310,45 +310,45 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 105.
+(Font)              <14.4> on input line 108.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 105.
+(Font)              <7> on input line 108.
 [1
 
 
 {p:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 110.
+(Font)              <10.95> on input line 113.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 110.
+(Font)              <8> on input line 113.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 110.
+(Font)              <6> on input line 113.
 
 <./images/hhs_logo.jpg, id=8, 90.9945pt x 19.71pt>
 File: ./images/hhs_logo.jpg Graphic file (type jpg)
  <use ./images/hhs_logo.jpg>
-Package pdftex.def Info: ./images/hhs_logo.jpg used on input line 114.
+Package pdftex.def Info: ./images/hhs_logo.jpg used on input line 117.
 (pdftex.def)             Requested size: 90.99428pt x 19.70995pt.
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 114
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 117
 .
-LaTeX Font Info:    No file OMScmss.fd. on input line 114.
+LaTeX Font Info:    No file OMScmss.fd. on input line 117.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbar' on input line 114.
+(Font)              for symbol `textbar' on input line 117.
 
 [1 <./images/hhs_logo.jpg>]
 File: ./images/hhs_logo.jpg Graphic file (type jpg)
  <use ./images/hhs_logo.jpg>
-Package pdftex.def Info: ./images/hhs_logo.jpg used on input line 129.
+Package pdftex.def Info: ./images/hhs_logo.jpg used on input line 132.
 (pdftex.def)             Requested size: 90.99428pt x 19.70995pt.
  [2]
 
 AED: lastpage setting LastPage
 File: ./images/hhs_logo.jpg Graphic file (type jpg)
 <use ./images/hhs_logo.jpg>
-Package pdftex.def Info: ./images/hhs_logo.jpg used on input line 135.
+Package pdftex.def Info: ./images/hhs_logo.jpg used on input line 138.
 (pdftex.def)             Requested size: 90.99428pt x 19.70995pt.
  [3] (./Test_document.aux)
 
@@ -358,11 +358,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  4500 strings out of 493013
  73889 string characters out of 6136992
- 232661 words of memory out of 5000000
+ 232731 words of memory out of 5000000
  8007 multiletter control sequences out of 15000+600000
  9153 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,14n,51p,8826b,298s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,14n,51p,8826b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
 <p:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><p:/tex
 live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><p:/texlive/2016/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><p:/texlive/2016/texmf-dist/
@@ -371,7 +371,7 @@ e1/public/amsfonts/cm/cmss12.pfb><p:/texlive/2016/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmssbx10.pfb><p:/texlive/2016/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmssi10.pfb><p:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb>
-Output written on Test_document.pdf (4 pages, 79393 bytes).
+Output written on Test_document.pdf (4 pages, 79417 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
