@@ -1,0 +1,135 @@
+\documentclass[numbers=endperiod]{scrartcl}
+
+
+%test
+
+%\usepackage{fontspec}
+%\setmainfont{Calibri}
+\renewcommand{\familydefault}{\sfdefault}
+
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{graphicx}
+\graphicspath{ {C:/Users/Martijn van Essen/Desktop/} }
+
+
+\usepackage{xcolor}
+
+\definecolor{hhs_theme_heading_1}{RGB}{170,183,52}
+\definecolor{hhs_theme_heading_2}{RGB}{242,240,211}
+\definecolor{hhs_theme_heading_3}{RGB}{170,183,52}
+
+\addtokomafont{section}{\normalfont\Large}
+
+\setkomafont{section}{\sectionheading}
+\newcommand{\sectionheading}[1]{%
+	\normalfont
+	\Large%\sf\bf%
+	\setlength{\fboxsep}{0cm}%already boxed
+	\colorbox{hhs_theme_heading_1!80}{%
+		\begin{minipage}{\linewidth}%
+			\vspace*{6pt}%Space before
+			\hspace*{4pt}
+			\color{white}
+			#1
+			\vspace*{4pt}%Space after
+		\end{minipage}%
+}}
+
+\setkomafont{subsection}{\subsectionheading}
+\newcommand{\subsectionheading}[1]{%
+	\normalfont
+	\setlength{\fboxsep}{0cm}%already boxed
+	\colorbox{hhs_theme_heading_2!80}{%
+		\begin{minipage}{\linewidth}%
+			\vspace*{4pt}%Space before
+			\hspace*{2pt}
+			#1
+			\vspace*{2pt}%Space after
+		\end{minipage}%
+}}
+
+\setkomafont{subsubsection}{\subsubsectionheading}
+\newcommand{\subsubsectionheading}[1]{%
+	\normalfont
+	\noindent
+	
+		\begin{minipage}{\linewidth}%
+			\textcolor{hhs_theme_heading_1}{\rule{\textwidth}{1.5pt}}
+			\vspace*{4pt}%Space before
+			\hspace*{2pt}
+			#1
+			\vspace*{2pt}%Space after
+		\end{minipage}%
+}
+%end test
+
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	total={170mm,257mm},
+	left=20mm,
+	top=20mm,
+	bottom=30mm
+}
+
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+
+
+\pagestyle{fancy}
+%\fancyhf{}
+%\rfoot{Pagina \thepage \hspace{1pt} van \pageref{LastPage}}
+\fancyhead[L]{}
+\fancyhead[C]{---Draft---}
+\fancyhead[R]{\slshape \leftmark}
+
+\fancyfoot[L]{ \includegraphics{hhs_logo.jpg}}
+\fancyfoot[C]{	\vspace*{-20pt}
+				\small Ricardo Molenaar \& Martijn van Essen\\
+				PROENT\\
+				V1.0 \textbar 18-11-2016
+			}	
+\fancyfoot[R]{\vspace*{-20pt}\small \textbar Pagina \thepage \hspace{1pt} van \pageref{LastPage}\textbar}
+
+
+\renewcommand{\footrulewidth}{0.4pt}%
+
+\title{My first document}
+\date{18-11-2016}
+\author{Martijn van Essen}
+
+\begin{document}
+	\pagenumbering{gobble}
+	\maketitle
+	\newpage
+	\pagenumbering{arabic}
+	
+	\section{Hoofdstuk}
+	Hello World!
+	\underline{test}
+	\subsection{Deelonderwerp}
+	Hello World!
+	\subsubsection{Eindelijk van dat grafword af!}
+	\newpage
+	
+	\begin{equation}
+		f(x) = x^2
+	\end{equation}
+	
+	\section{Hoofdstuk}
+	Hello World!
+	\underline{test}
+	\subsection{Deelonderwerp}
+	Hello World!
+	\subsubsection{Sub}
+	Hello world!
+	Hello world!
+	
+	\newpage
+	
+	\begin{equation}
+	f(x) = x^2
+	\end{equation}
+	
+\end{document}
