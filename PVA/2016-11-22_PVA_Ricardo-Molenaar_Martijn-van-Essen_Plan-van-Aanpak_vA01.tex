@@ -11,7 +11,7 @@
 \usepackage{fancyhdr}
 \usepackage{lastpage}
 \usepackage{graphicx}
-\graphicspath{ {C:/Users/Martijn van Essen/Desktop/} }
+\graphicspath{ {./images/} }
 
 
 \usepackage{xcolor}
@@ -75,25 +75,32 @@
 }
 
 \DeclareGraphicsExtensions{.pdf,.png,.jpg}
-
-
 \pagestyle{fancy}
 %\fancyhf{}
 %\rfoot{Pagina \thepage \hspace{1pt} van \pageref{LastPage}}
-\fancyhead[L]{}
-\fancyhead[C]{---Draft---}
+
+\setlength{\headheight}{35pt} 
+\setlength{\footheight}{135pt} 
+
+
+\fancyhead[L]{%\begin{minipage}[b]{0.65\linewidth}
+	\includegraphics[scale=0.4]{logo.png}
+\fancyhead[C]{\vspace{-40pt}\textcolor{hhs_theme_heading_1}{In opdracht van: }Rijkswaterstaat}}
 \fancyhead[R]{\slshape \leftmark}
 
-\fancyfoot[L]{ \includegraphics{hhs_logo.jpg}}
+\fancyfoot[L]{ 
+%	\includegraphics{hhs_logo.jpg}
+\tiny 2016-11-22\textunderscore PVA\textunderscore Ricardo-Molenaar\\\textunderscore Martijn-van-Essen\textunderscore Plan-van-Aanpak\textunderscore vA01
+}
 \fancyfoot[C]{	%\begin{flushleft}
 				%\hspace{100pt}
-				\vspace*{-20pt}
+				%\vspace*{0pt}
 				\small Ricardo Molenaar \& Martijn van Essen\\
 				PROENT\\
 				V1.0 \textbar 18-11-2016
 				%\end{flushleft}
 			}	
-\fancyfoot[R]{\vspace*{-20pt}\small \textbar Pagina \thepage \hspace{1pt} van \pageref{LastPage}\textbar}
+\fancyfoot[R]{\vspace*{0pt}\small \textbar Pagina \thepage \hspace{1pt} van \pageref{LastPage}\textbar}
 
 
 \renewcommand{\footrulewidth}{0.4pt}%
