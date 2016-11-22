@@ -1,4 +1,8 @@
-\contentsline {section}{\numberline {1}Versiebeheer}{1}
-\contentsline {section}{\numberline {2}Inhoudsopgave}{1}
-\contentsline {subsection}{\numberline {2.1}Deelonderwerp}{2}
-\contentsline {subsubsection}{\numberline {2.1.1}Sub}{2}
+\contentsline {section}{\nonumberline Versiebeheer}{1}
+\contentsline {section}{\numberline {1}Projectachtergrond}{3}
+\contentsline {section}{\numberline {2}Projectresultaat}{4}
+\contentsline {section}{\numberline {3}Projectactiviteiten}{5}
+\contentsline {section}{\numberline {4}Projectgrenzen}{6}
+\contentsline {section}{\numberline {5}Kwaliteit}{7}
+\contentsline {section}{\numberline {6}Projectorganisatie}{8}
+\contentsline {section}{\numberline {7}Planning}{9}
