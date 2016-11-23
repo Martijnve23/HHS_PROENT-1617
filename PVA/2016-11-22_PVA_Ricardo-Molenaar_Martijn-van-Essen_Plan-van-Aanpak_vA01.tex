@@ -59,14 +59,16 @@
 
 \setkomafont{subsection}{\subsectionheading}
 \newcommand{\subsectionheading}[1]{%
+	\vspace{-10pt}
 	\normalfont
+	\Large
 	\setlength{\fboxsep}{0cm}%already boxed
 	\colorbox{hhs_theme_heading_2!80}{%
 		\begin{minipage}{\linewidth}%
 			\vspace*{4pt}%Space before
 			\hspace*{2pt}
 			#1
-			\vspace*{2pt}%Space after
+			\vspace*{4pt}%Space after
 		\end{minipage}%
 }}
 
@@ -74,7 +76,6 @@
 \newcommand{\subsubsectionheading}[1]{%
 	\normalfont
 	\noindent
-	
 		\begin{minipage}{\linewidth}%
 			\textcolor{hhs_theme_heading_1}{\rule{\textwidth}{1.5pt}}
 			\vspace*{4pt}%Space before
@@ -113,6 +114,10 @@
 				%\end{flushleft}
 			}	
 \fancyfoot[R]{\vspace{0pt}\small \textbar Pagina \thepage \hspace{1pt} van \pageref{LastPage}\textbar}
+
+\newcommand{\whitespace}{\vspace*{2 mm} \\}%Space between paragraphs
+\newcommand{\moveup}{\vspace*{-7pt}}%Space between paragraphs
+
 
 
 \renewcommand{\footrulewidth}{0.4pt}%
@@ -167,15 +172,55 @@
 	\setcounter{secnumdepth}{3}%Turn on section numbering
 
 	\section{Projectachtergrond}
-	Test
+	In dit hoofdstuk worden de achtergronden van het project besproken. Hier wordt informatie gegeven over de achtergrond en algemene gegevens van het project.
+	
+	\subsection{Naam}
+	Voor dit project is de naam PROENT - Windpark Borselen gekozen. PROENT is de projectnaam waar deze opdracht deel van uit maakt. Windpark Borssele II is de locatie waarvoor het ontwerp en beheers plan geschreven zal worden.
+	\subsection{Opdrachtgever}
+	De opdrachtgever voor dit project is Rijkswaterstaat. Zij verdelen de kavels waarop de windparken gebouwd zullen worden aan de hand van verschillende ontwerp en beheersplannen welke zij binnnen krijgen.
+	\whitespace
+	Rijkswaterstaat zal deze plannen beoordelen, maar zal verder geen actieve rol spelen in het aanleggen en beheren van het windpark.
+	\subsection{Opdrachtnemer}
+	De opdrachtnemer van dit project is ingenieursbureau Molenaar \& van Essen. Zij zijn verantwoordelijk voor het opleveren van een ontwerp en beheersplan bij Rijkswaterstaat.
+	\subsection{Geschiedenis}
+	In september 2013 zijn meer dan 40 organisaties akkoord gegegaan met het Energieakkoord -SOURCE-. In dit akkoord is afgesproken om in 2023 het aandeel van hernieuwbare energie met 16\% te verhogen.
+	\whitespace
+	Om dit plan te realiseren heeft Rijkswaterstaat een aantal kavels aangewezen voor de Nederlandse kust. Op deze kavels zullen windmolenparken gebouwd worden welke bijdragen aan het aandeel hernieuwbare energie.
+	\subsection{Stakeholders}
+	De opdrachtgever, Rijkswaterstaat, is bij dit project een grote belanghebbende. Zij zijn verantwoordelijk voor het bereiken van de eisen aan wind energie door de kavels op een goede manier te verdelen onder de bedrijven die deze willen exploiteren.
+	\whitespace
+	De Nederlandse overheid heeft ook belangen bij dit project. Door middel van dit project zijn zij in staat om aan de door de Europese Unie gestelde eisen aan duurzame energie te voldoen.
+	\whitespace
+	Verder heeft ook ingenieursbureau Molenaar \& van Essen. Zij kunnen in samenwerking met aannemer het windpark bouwen en vervolgens exploiteren.
+	\subsection{Goedkeuring}
+	De goedkeuring van het ontwerp en beheers plan zal door Rijkswaterstaat. Uit de verschillende inzendingen zullen zij het beste plan kiezen. Wanneer dit plan wordt goedgekeurd en uitgekozen zal de desbetreffende partij de rechten krijgen om dit plan uit te werken.
 	\newpage
 
 	\section{Projectresultaat}
-	\newpage
+	In dit hoofdstuk wordt het doel van het project beschreven met hierbij de resulaten die hiermee behaalt zullen worden.
+	
+	\subsection{Doelstelling}
+	Om aan het energieakkoord te voldoen worden er windmolenparken op zee gebouwd. Het doel van dit project is om voor één van deze parken, namelijk Borssele II, een ontwerp en beheersplan te schrijven.
+	\whitespace
+	Aan de hand van dit plan kan het windmolenpark gebouwd en vervolgens beheerd worden.
+	
+	\subsection{Resultaat}	
+	Het resultaat van dit project is een ontwerp en beheers plan. Dit plan zal worden ingediend bij Rijkswaterstaat waarna het beoordeeld zal worden.
+	%\newpage
 
 	\section{Projectactiviteiten}
+	In dit hoofdstuk worden de activiteiten besproken welke in dit project plaats zullen vinden.
+	\subsection{Documentatie}
+	In dit project zal de volgende documentatie worden opgeleverd:
+	
+	\subsection{Bijeenkomsten}
+	
+	\subsection{Ontwerpen}
+	
+	\subsection{Beheersen}
+				
 	\newpage
-
+	
 	\section{Projectgrenzen}
 	\newpage
 
@@ -196,7 +241,7 @@
 		\end{tabular}
 	
 	\end{table}
-		\newpage
+	\newpage
 
 	\section{Planning}
 	In tabel~\ref{table:Planning} is een planning voor het verloop van dit project weergegeven.
@@ -212,7 +257,6 @@
 			Eindassessment		& 17-1-2017		& 24-1-2017 \\ \hline
 		\end{tabular}
 	\end{table}
-	
 	\newpage
 
 
