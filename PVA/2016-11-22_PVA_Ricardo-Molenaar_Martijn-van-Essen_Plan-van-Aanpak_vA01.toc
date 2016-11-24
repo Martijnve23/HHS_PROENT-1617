@@ -12,10 +12,11 @@
 \contentsline {section}{\numberline {3}Projectactiviteiten}{4}
 \contentsline {subsection}{\numberline {3.1}Documentatie}{4}
 \contentsline {subsection}{\numberline {3.2}Bijeenkomsten}{4}
-\contentsline {subsection}{\numberline {3.3}Ontwerpen}{4}
-\contentsline {subsection}{\numberline {3.4}Beheersen}{4}
+\contentsline {subsection}{\numberline {3.3}Bijeenkomsten}{4}
+\contentsline {subsection}{\numberline {3.4}Ontwerpen}{4}
+\contentsline {subsection}{\numberline {3.5}Beheersen}{4}
 \contentsline {section}{\numberline {4}Projectgrenzen}{4}
-\contentsline {subsection}{\numberline {4.1}Afbakening}{4}
+\contentsline {subsection}{\numberline {4.1}Afbakening}{5}
 \contentsline {subsubsection}{\numberline {4.1.1}Grensactiviteiten}{5}
 \contentsline {subsubsection}{\numberline {4.1.2}Tijdsbestek en budget}{5}
 \contentsline {subsection}{\numberline {4.2}Programma van Eisen}{5}
