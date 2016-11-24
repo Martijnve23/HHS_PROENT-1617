@@ -23,6 +23,9 @@
 \usepackage{lastpage}
 \usepackage{graphicx}
 \usepackage{caption}
+\usepackage{blindtext}
+\usepackage{enumitem}
+
 
 \usepackage[table]{xcolor}% http://ctan.org/pkg/xcolor
 %\captionsetup{belowskip=1pt,aboveskip=0pt}
@@ -32,7 +35,7 @@
 \renewcommand{\figurename}{Figuur }
 \renewcommand{\tablename}{Tabel }
 
-
+\setlist{nosep,after=\vspace{2pt}} %For space after lists
 
 \usepackage{xcolor}
 
@@ -55,6 +58,7 @@
 			#1
 			\vspace*{4pt}%Space after
 		\end{minipage}%
+		%\vspace*{-100pt}
 }}
 
 \setkomafont{subsection}{\subsectionheading}
@@ -77,11 +81,12 @@
 	\normalfont
 	\noindent
 		\begin{minipage}{\linewidth}%
-			\textcolor{hhs_theme_heading_1}{\rule{\textwidth}{1.5pt}}
 			\vspace*{4pt}%Space before
-			\hspace*{-29pt}
+			%\hspace*{-29pt}
 			#1
-			\vspace*{2pt}%Space after
+			\vspace*{-10pt}
+			\textcolor{hhs_theme_heading_1}{\rule{\textwidth}{1.5pt}}
+			\vspace*{-15pt}%Space after
 		\end{minipage}%
 }
 %end test
@@ -110,13 +115,15 @@
 				%\vspace*{0pt}
 				\small Ricardo Molenaar \& Martijn van Essen\\
 				PROENT\\
-				V1.0 \textbar 18-11-2016
+				V1.0 \textbar 28-11-2016
 				%\end{flushleft}
 			}	
 \fancyfoot[R]{\vspace{0pt}\small \textbar Pagina \thepage \hspace{1pt} van \pageref{LastPage}\textbar}
 
 \newcommand{\whitespace}{\vspace*{2 mm} \\}%Space between paragraphs
 \newcommand{\moveup}{\vspace*{-7pt}}%Space between paragraphs
+\newcommand{\toRomanNumber}[1]{\uppercase\expandafter{\romannumeral #1\relax}} %Create roman numerals
+
 
 
 
@@ -165,6 +172,7 @@
 	
 	%Table of contents
 	\renewcommand{\contentsname}{Inhoudsopgave} %Set table of contents section name
+	\setcounter{tocdepth}{2}% 1 and 1.1 levels in table of content
 	\tableofcontents
 	\newpage
 	%End of Table of contents
@@ -212,21 +220,64 @@
 	In dit hoofdstuk worden de activiteiten besproken welke in dit project plaats zullen vinden.
 	\subsection{Documentatie}
 	In dit project zal de volgende documentatie worden opgeleverd:
+	\begin{itemize}
+	\item Plan van Aanpak
+	\item Ontwerp en beheers plan
+	\end{itemize}
 	
 	\subsection{Bijeenkomsten}
-	
+	Binnen dit project vinden een aantal gastlezingen plaats vanuit de energietechniek sector. Deze lezingen zullen worden bijgewoond door de opdrachtnemer. Via deze lezingen wordt meer informatie verzameld over het ontwerpen en beheersen van een windturbinepark.
+	\whitespace
+	Naast deze lezingen zullen er ook twee locaties bezocht worden. Namelijk: Kabelfabriek Prysmian en windpark Westermeerwind.
 	\subsection{Ontwerpen}
-	
+	?
 	\subsection{Beheersen}
-				
-	\newpage
+	?
 	
 	\section{Projectgrenzen}
-	\newpage
-
+	Dit hoofdstuk bevat de afbakening van het PROENT project. De afbakening zal worden besproken aan de hand van de volgende twee punten:
+	\begin{itemize}[noitemsep]
+		\item Hoe ver gaat het project
+		\item Hoe breed gaat het project
+	\end{itemize}
+	\subsection{Afbakening}
+	Het project zal worden afgebakend aan de hand van de grensactiviteiten en het budget en tijdsbestek wat beschikbaar is.
+	\subsubsection{Grensactiviteiten}
+	De volgende grensactiviteiten zijn bij dit project van toepassing:
+	\begin{itemize}
+		\item Ontwerp en Beheers plan: Wordt gerealiseerd
+		\item Realiseren windpark: Wordt niet gerealiseerd
+	\end{itemize}
+	\subsubsection{Tijdsbestek en budget}
+	Dit project zal uitgevoerd in een tijdsbestek van 9 weken. Het project start op 17 november 2016 en zal afgerond worden op 24 januari 2017.
+	\whitespace
+	Het project bestaat enkel uit het opleveren van verslagen. Aangezien hierbij geen kosten komen kijken, is er ook geen budget beschikbaar gesteld voor dit project.
+	\subsection{Programma van Eisen}
+	Het programma van eisen is opgesteld aan de eisen welke door Rijkswaterstaat aangeleverd zijn.
+	\whitespace
+	Hierbij worden de volgende elementen behandeld:
+	\begin{itemize}[noitemsep]
+		\item Randvoorwaarden
+		\item Eisen
+	\end{itemize}
+	\subsubsection{Randvoorwaarden}
+	De volgende randvoorwaarden zijn gesteld aan het kavel Borssele II:
+	\begin{itemize}[noitemsep]
+		\item Het kavel moet tussen de 342 MW en 380 MW aan energie leveren
+		\item De windturbines moeten aangesloten worden op een 700 MW transformatorstation van TenneT
+		\item De windturbines bevinden zich volledig binnen de grenzen van het 63,5 km\textsuperscript{2} groote gebied
+		\item
+	\end{itemize}
+	\subsubsection{Eisen Ontwerp en Beheers plan}
+	De volgende eisen zijn gesteld aan het ontwerp en beheers plan:
+	\begin{itemize}
+	\item
+	\end{itemize}
+	\subsection{MoSCoW}
+	Nodig?
+	
 	\section{Kwaliteit}
-	\newpage
-
+	Om te zorgen dat het projectresultaat van voldoende kwaliteit is, zal deze kwaliteit continu gemonitord worden.
 	\section{Projectorganisatie}
 	Het gestelde project is aangenomen door ingenieursbureau Molenaar \& van Essen. Dit bedrijf bestaat uit
 	twee werknemers welke beide aan dit project zullen werken. 
