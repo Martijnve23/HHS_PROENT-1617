@@ -33,7 +33,7 @@
 		author = {{Sociaal-Economische Raad}},
 		title = {Energieakkoord \uppercase{SER}},
 		year = {2013},
-		url = {http://http://www.energieakkoordser.nl/},
+		url = {http://www.energieakkoordser.nl/},
 		urldate = {2016-11-24}
 	}
 	@ONLINE{Kavelbesluit:2015:Online,
@@ -44,9 +44,11 @@
 		urldate = {2016-11-22}
 	}
 	@BOOK{Grit:2015:Book,
-		author = {{Roel Grit}},
+		author = {Roel Grit},
 		title = {Projectmanagement},
-		year = {2015},
+		publisher = "Noordhoff Uitgevers",
+		address = "Houten, Groningen",
+		year = {2015}
 	}
 	
 \end{filecontents}
@@ -355,7 +357,7 @@
 	\end{table}
 	
 	\subsubsection{Documentatie}
-	Vanuit de opdrachtgever zijn richtlijnen aangeleverd voor stijl en naamgeving van documenten. Deze richtlijnen zullen door de projecgroep gehandhaafd worden. \cite{Projectmanagement:2015:Book}
+	Vanuit de opdrachtgever zijn richtlijnen aangeleverd voor stijl en naamgeving van documenten. Deze richtlijnen zullen door de projecgroep gehandhaafd worden. \cite{Grit:2015:Book}
 	
 	\subsection{Controle door de opdrachtgever}
 	In de derde week van het project vindt er een overleg met de opdrachtgever plaats over het plan van aanpak. In dit gesprek zal een advies gegeven worden aan de projectgroep aan de hand van het plan van aanpak.
@@ -388,7 +390,7 @@
 	Door de kleine samenstelling van de projectgroep is het ook niet relevant om een projectleider aan te wijzen. De taken zullen in overleg tussen de twee groepsleden verdeeld worden. Hierbij wordt in acht genomen dat beide projectleden een gelijke hoeveelheid werk (50\%) voor het project verzetten.
 	
 	\sectionSmall{Planning}
-	In \tableref{Planning} is een planning voor het verloop van dit project weergegeven.
+	In \tableref{Planning} is een planning voor het verloop van dit project weergegeven. Dit is een compacte weergave van de planning. Een uitgebreide planning is te raadplegen in \hyperref[sec:BijlageA]{bijlage A}.
 	\begin{table}[h]
 		\caption{Projectplanning}\label{table:Planning}
 		\centering
@@ -406,7 +408,9 @@
 	\printbibliography
 	
 	\newpage
+	\setcounter{secnumdepth}{0}%Turn off section numbering
 	\sectionSmall{Bijlagen}
-	\includepdf{Planning}
-		
+	\whitespace
+	\subsection{Bijlage A: Strokenplanning} \label{sec:BijlageA}
+	\includegraphics[angle=270,origin=c,scale=0.5]{Planning.PNG}	
 \end{document}
