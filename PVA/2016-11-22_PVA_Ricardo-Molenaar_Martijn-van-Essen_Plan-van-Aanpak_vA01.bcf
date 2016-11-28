@@ -2121,7 +2121,7 @@
   <bcf:section number="0">
     <bcf:citekey order="1">SER:2013:Online</bcf:citekey>
     <bcf:citekey order="2">Kavelbesluit:2015:Online</bcf:citekey>
-    <bcf:citekey order="3">Projectmanagement:2015:Book</bcf:citekey>
+    <bcf:citekey order="3">Grit:2015:Book</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

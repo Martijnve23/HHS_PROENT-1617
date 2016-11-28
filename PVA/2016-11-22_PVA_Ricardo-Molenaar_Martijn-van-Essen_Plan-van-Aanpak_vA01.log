@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.11.18)  26 NOV 2016 19:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.11.18)  28 NOV 2016 19:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,27 +6,27 @@ entering extended mode
 (./2016-11-22_PVA_Ricardo-Molenaar_Martijn-van-Essen_Plan-van-Aanpak_vA01.tex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrartcl.cls
+(p:/texlive/2016/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2016/06/14 v3.21 KOMA-Script document class (article)
-(c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrkbase.sty
+(p:/texlive/2016/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2016/06/14 v3.21 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-(c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrbase.sty
+(p:/texlive/2016/texmf-dist/tex/latex/koma-script/scrbase.sty
 Package: scrbase 2016/06/14 v3.21 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+(p:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrlfile.sty
+(p:/texlive/2016/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2016/06/14 v3.21 KOMA-Script package (loading files)
 
 Package scrlfile, 2016/06/14 v3.21 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
-))) (c:/texlive/2016/texmf-dist/tex/latex/koma-script/tocbasic.sty
+))) (p:/texlive/2016/texmf-dist/tex/latex/koma-script/tocbasic.sty
 Package: tocbasic 2016/06/14 v3.21 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box26
@@ -44,11 +44,11 @@ Class scrartcl Info: File `scrsize11pt.clo' used instead of
 (scrartcl)           file `scrsize11.clo' to setup font sizes on input line 205
 2.
 
-(c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+(p:/texlive/2016/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
 File: scrsize11pt.clo 2016/06/14 v3.21 KOMA-Script font size class option (11pt
 )
 )
-(c:/texlive/2016/texmf-dist/tex/latex/koma-script/typearea.sty
+(p:/texlive/2016/texmf-dist/tex/latex/koma-script/typearea.sty
 Package: typearea 2016/06/14 v3.21 KOMA-Script package (type area)
 
 Package typearea, 2016/06/14 v3.21 KOMA-Script package (type area)
@@ -99,17 +99,17 @@ LaTeX Info: Redefining \textsubscript on input line 4036.
 \c@table=\count87
 Class scrartcl Info: Redefining `\numberline' on input line 5049.
 \bibindent=\dimen102
-) (c:/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+) (p:/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(p:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(p:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(c:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(p:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
@@ -141,7 +141,7 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 (scrartcl)              Nevertheless, using requested
 (scrartcl)              package `fancyhdr' on input line 20.
 
-(c:/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(p:/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \fancy@headwidth=\skip55
 \f@ncyO@elh=\skip56
@@ -153,30 +153,30 @@ Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \f@ncyO@olf=\skip62
 \f@ncyO@orf=\skip63
 )
-(c:/texlive/2016/texmf-dist/tex/latex/lastpage/lastpage.sty
+(p:/texlive/2016/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+(p:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+(p:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+(p:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(p:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
+(p:/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(p:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(p:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count91
@@ -184,10 +184,10 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-(c:/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+(p:/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-(c:/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+(p:/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen113
@@ -201,10 +201,10 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 Package caption Info: KOMA-Script document class.
 \c@ContinuedFloat=\count92
 )
-(c:/texlive/2016/texmf-dist/tex/latex/blindtext/blindtext.sty
+(p:/texlive/2016/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-(c:/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
+(p:/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count93
@@ -226,7 +226,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count109
 \c@blind@pangrammax=\count110
 )
-(c:/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
+(p:/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip64
 \enit@outerparindent=\dimen120
@@ -234,14 +234,14 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box28
 \enitdp@description=\count111
 )
-(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+(p:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(p:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(p:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -280,22 +280,22 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(p:/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(p:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen121
 \Hy@linkcounter=\count112
 \Hy@pagecounter=\count113
 
-(c:/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+(p:/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count114
 
-(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(p:/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4486.
@@ -307,7 +307,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4735.
 \c@Hy@tempcnt=\count115
 
-(c:/texlive/2016/texmf-dist/tex/latex/url/url.sty
+(p:/texlive/2016/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -332,39 +332,39 @@ LaTeX Info: Redefining \pageref on input line 6416.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+(p:/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
 \Fld@listcount=\count120
 \c@bookmark@seq@number=\count121
 
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(p:/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip65
 )
-(c:/texlive/2016/texmf-dist/tex/latex/mnsymbol/MnSymbol.sty
+(p:/texlive/2016/texmf-dist/tex/latex/mnsymbol/MnSymbol.sty
 Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
 
-(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+(p:/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/06/28 v2.15d AMS math features
 \@mathmargin=\skip66
 
 For additional information on amsmath, use the `?' option.
-(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+(p:/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+(p:/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen125
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(p:/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen126
 )
-(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+(p:/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count122
@@ -405,7 +405,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
-(c:/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
+(p:/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2016/06/19 v1.99m Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -420,7 +420,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
+(p:/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 334.
@@ -487,7 +487,7 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-(c:/texlive/2016/texmf-dist/tex/latex/amsfonts/eufrak.sty
+(p:/texlive/2016/texmf-dist/tex/latex/amsfonts/eufrak.sty
 Package: eufrak 2009/06/22 v3.00 Euler Fraktur fonts
 LaTeX Font Info:    Overwriting math alphabet `\EuFrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 39.
@@ -556,38 +556,38 @@ LaTeX Font Info:    Redeclaring math accent \widehat on input line 1845.
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1846.
 LaTeX Font Info:    Redeclaring math accent \vec on input line 1848.
 )
-(c:/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+(p:/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
 
-(c:/texlive/2016/texmf-dist/tex/generic/babel-dutch/dutch.ldf
+(p:/texlive/2016/texmf-dist/tex/generic/babel-dutch/dutch.ldf
 Language: dutch 2005/03/30 v3.8i Dutch support from the babel system
 
-(c:/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+(p:/texlive/2016/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count134
 \U@D=\dimen134
 )
 Package babel Info: Making " an active character on input line 132.
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.sty
+(p:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2016/09/17 v3.6 programmable bibliographies (PK/JW/AB)
 
-(c:/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(p:/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count135
 )
-(c:/texlive/2016/texmf-dist/tex/latex/logreq/logreq.sty
+(p:/texlive/2016/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count136
 
-(c:/texlive/2016/texmf-dist/tex/latex/logreq/logreq.def
+(p:/texlive/2016/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+(p:/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(c:/texlive/2016/texmf-dist/tex/generic/xstring/xstring.sty
-(c:/texlive/2016/texmf-dist/tex/generic/xstring/xstring.tex
+(p:/texlive/2016/texmf-dist/tex/generic/xstring/xstring.sty
+(p:/texlive/2016/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write3
 \integerpart=\count137
 \decimalpart=\count138
@@ -648,7 +648,7 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(c:/texlive/2016/texmf-dist/tex/latex/biblatex/blx-dm.def)
+(p:/texlive/2016/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -728,13 +728,13 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(c:/texlive/2016/texmf-dist/tex/latex/biblatex/blx-compat.def
+(p:/texlive/2016/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(c:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.def
+(p:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
 \c@textcitecount=\count312
 \c@textcitetotal=\count313
@@ -747,22 +747,22 @@ File: biblatex.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
 
-(c:/texlive/2016/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+(p:/texlive/2016/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
 File: ieee.bbx 2016/08/31 v1.1q biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
 
-(c:/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+(p:/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
 File: numeric-comp.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-(c:/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+(p:/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
 File: numeric.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(c:/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+(p:/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count319
 \c@bbx:relatedtotal=\count320
@@ -770,12 +770,12 @@ File: standard.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
 
-(c:/texlive/2016/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+(p:/texlive/2016/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
 File: ieee.cbx 2016/08/31 v1.1q biblatex citation style
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
-(c:/texlive/2016/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+(p:/texlive/2016/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 File: numeric-comp.cbx 2016/09/17 v3.6 biblatex citation style (PK/JW/AB)
 \c@cbx@tempcnta=\count321
 \c@cbx@tempcntb=\count322
@@ -797,25 +797,25 @@ Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(c:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.cfg
+(p:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
 
 LaTeX Warning: File `test.bib' already exists on the system.
                Not generating it from this source.
 
-(c:/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+(p:/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(p:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(c:/texlive/2016/texmf-dist/tex/latex/colortbl/colortbl.sty
+(p:/texlive/2016/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
-(c:/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+(p:/texlive/2016/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen135
 \extrarowheight=\dimen136
@@ -837,10 +837,10 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(c:/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+(p:/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
 
-(c:/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+(p:/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count324
 \calc@Bcount=\count325
@@ -853,13 +853,13 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count326
 \calc@Cskip=\skip88
 )
-(c:/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(p:/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 )
 \AM@pagewidth=\dimen139
 \AM@pageheight=\dimen140
 
-(c:/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
+(p:/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box31
@@ -871,7 +871,7 @@ File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
 Package biblatex Info: Trying to load language 'dutch'...
 Package biblatex Info: ... file 'dutch.lbx' found.
 
-(c:/texlive/2016/texmf-dist/tex/latex/biblatex/lbx/dutch.lbx
+(p:/texlive/2016/texmf-dist/tex/latex/biblatex/lbx/dutch.lbx
 File: dutch.lbx 2016/09/17 v3.6 biblatex localization (PK/JW/AB)
 )
 
@@ -884,28 +884,28 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 \openout1 = `2016-11-22_PVA_Ricardo-Molenaar_Martijn-van-Essen_Plan-van-Aanpak_
 vA01.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 175.
-LaTeX Font Info:    ... okay on input line 175.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 175.
-LaTeX Font Info:    ... okay on input line 175.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 175.
-LaTeX Font Info:    ... okay on input line 175.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 175.
-LaTeX Font Info:    ... okay on input line 175.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 175.
-LaTeX Font Info:    ... okay on input line 175.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 175.
-LaTeX Font Info:    ... okay on input line 175.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 175.
-LaTeX Font Info:    ... okay on input line 175.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 175.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 175.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 177.
+LaTeX Font Info:    ... okay on input line 177.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 177.
+LaTeX Font Info:    ... okay on input line 177.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 177.
+LaTeX Font Info:    ... okay on input line 177.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 177.
+LaTeX Font Info:    ... okay on input line 177.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 177.
+LaTeX Font Info:    ... okay on input line 177.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 177.
+LaTeX Font Info:    ... okay on input line 177.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 177.
+LaTeX Font Info:    ... okay on input line 177.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 177.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 177.
 
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+(p:/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    ... okay on input line 177.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -943,8 +943,8 @@ LaTeX Font Info:    ... okay on input line 175.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 175.
-(c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(lastpage)             ! on input line 177.
+(p:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count330
 \scratchdimen=\dimen141
@@ -957,10 +957,10 @@ Package lastpage Info: Please have a look at the pageslts package at
 \MPnumerator=\count334
 \makeMPintoPDFobject=\count335
 \everyMPtoPDFconversion=\toks27
-) (c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (p:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+(p:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -969,7 +969,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(p:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -977,19 +977,19 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 175.
+Package hyperref Info: Link coloring OFF on input line 177.
 
-(c:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+(p:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(p:/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count336
 )
-LaTeX Info: Redefining \ref on input line 175.
-LaTeX Info: Redefining \pageref on input line 175.
-LaTeX Info: Redefining \nameref on input line 175.
+LaTeX Info: Redefining \ref on input line 177.
+LaTeX Info: Redefining \pageref on input line 177.
+LaTeX Info: Redefining \nameref on input line 177.
 
 (./2016-11-22_PVA_Ricardo-Molenaar_Martijn-van-Essen_Plan-van-Aanpak_vA01.out)
 (./2016-11-22_PVA_Ricardo-Molenaar_Martijn-van-Essen_Plan-van-Aanpak_vA01.out)
@@ -1009,73 +1009,73 @@ Package biblatex Info: ... file '2016-11-22_PVA_Ricardo-Molenaar_Martijn-van-Es
 sen_Plan-van-Aanpak_vA01.bbl' found.
 
 (./2016-11-22_PVA_Ricardo-Molenaar_Martijn-van-Essen_Plan-van-Aanpak_vA01.bbl)
-Package biblatex Info: Reference section=0 on input line 175.
-Package biblatex Info: Reference segment=0 on input line 175.
+Package biblatex Info: Reference section=0 on input line 177.
+Package biblatex Info: Reference segment=0 on input line 177.
 
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+(p:/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
+(p:/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-<Cover.pdf, id=108, 597.55246pt x 845.07718pt>
+<Cover.pdf, id=116, 597.55246pt x 845.07718pt>
 File: Cover.pdf Graphic file (type pdf)
  <use Cover.pdf>
-Package pdftex.def Info: Cover.pdf used on input line 183.
+Package pdftex.def Info: Cover.pdf used on input line 185.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: Cover.pdf Graphic file (type pdf)
  <use Cover.pdf>
-Package pdftex.def Info: Cover.pdf used on input line 183.
+Package pdftex.def Info: Cover.pdf used on input line 185.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<Cover.pdf, id=111, page=1, 597.55246pt x 845.07718pt>
+<Cover.pdf, id=119, page=1, 597.55246pt x 845.07718pt>
 File: Cover.pdf Graphic file (type pdf)
  <use Cover.pdf, page 1>
-Package pdftex.def Info: Cover.pdf, page1 used on input line 183.
+Package pdftex.def Info: Cover.pdf, page1 used on input line 185.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: Cover.pdf Graphic file (type pdf)
 
 <use Cover.pdf, page 1>
-Package pdftex.def Info: Cover.pdf, page1 used on input line 183.
+Package pdftex.def Info: Cover.pdf, page1 used on input line 185.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Cover.pdf Graphic file (type pdf)
  <use Cover.pdf, page 1>
-Package pdftex.def Info: Cover.pdf, page1 used on input line 183.
+Package pdftex.def Info: Cover.pdf, page1 used on input line 185.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Cover.pdf Graphic file (type pdf)
  <use Cover.pdf, page 1>
-Package pdftex.def Info: Cover.pdf, page1 used on input line 183.
+Package pdftex.def Info: Cover.pdf, page1 used on input line 185.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Cover.pdf Graphic file (type pdf)
 
 <use Cover.pdf, page 1>
-Package pdftex.def Info: Cover.pdf, page1 used on input line 183.
+Package pdftex.def Info: Cover.pdf, page1 used on input line 185.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
  [1
 
  <./Cover.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 204--204
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
 []|\OT1/cmss/m/n/10.95 R. Mo-le-naar,
  []
 
 
-Overfull \hbox (1.51532pt too wide) in paragraph at lines 194--206
+Overfull \hbox (1.51532pt too wide) in paragraph at lines 196--208
  [] 
  []
 
-<./images/Logo.png, id=130, 356.83313pt x 103.88812pt>
+<./images/Logo.png, id=139, 356.83313pt x 103.88812pt>
 File: ./images/Logo.png Graphic file (type png)
  <use ./images/Logo.png>
-Package pdftex.def Info: ./images/Logo.png used on input line 207.
+Package pdftex.def Info: ./images/Logo.png used on input line 209.
 (pdftex.def)             Requested size: 142.73071pt x 41.5545pt.
 
-<./images/rijkswaterstaat.jpg, id=131, 552.0625pt x 219.82124pt>
+<./images/rijkswaterstaat.jpg, id=140, 552.0625pt x 219.82124pt>
 File: ./images/rijkswaterstaat.jpg Graphic file (type jpg)
 
 <use ./images/rijkswaterstaat.jpg>
-Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 207.
+Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 209.
 (pdftex.def)             Requested size: 77.28821pt x 30.77475pt.
 
 
@@ -1084,15 +1084,15 @@ Package Fancyhdr Warning: \headheight is too small (35.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 207
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 209
 .
-LaTeX Font Info:    No file OMScmss.fd. on input line 207.
+LaTeX Font Info:    No file OMScmss.fd. on input line 209.
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbar' on input line 207.
+(Font)              for symbol `textbar' on input line 209.
 
-[1{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/Logo
+[1{p:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/Logo
 .png> <./images/rijkswaterstaat.jpg>]
 (./2016-11-22_PVA_Ricardo-Molenaar_Martijn-van-Essen_Plan-van-Aanpak_vA01.toc)
 \tf@toc=\write6
@@ -1102,11 +1102,11 @@ vA01.toc'.
 File: ./images/Logo.png Graphic file (type png)
 
 <use ./images/Logo.png>
-Package pdftex.def Info: ./images/Logo.png used on input line 213.
+Package pdftex.def Info: ./images/Logo.png used on input line 215.
 (pdftex.def)             Requested size: 142.73071pt x 41.5545pt.
 File: ./images/rijkswaterstaat.jpg Graphic file (type jpg)
  <use ./images/rijkswaterstaat.jpg>
-Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 213.
+Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 215.
 (pdftex.def)             Requested size: 77.28821pt x 30.77475pt.
 
 
@@ -1117,22 +1117,22 @@ Package Fancyhdr Warning: \headheight is too small (35.0pt):
 
 [2]
 
-LaTeX Warning: Citation 'SER:2013:Online' on page 3 undefined on input line 229
+LaTeX Warning: Citation 'SER:2013:Online' on page 3 undefined on input line 231
 .
 
 
-Overfull \hbox (8.52179pt too wide) in paragraph at lines 229--232
+Overfull \hbox (8.52179pt too wide) in paragraph at lines 231--234
 \OT1/cmss/m/n/10.95 In sep-tem-ber 2013 zijn meer dan 40 or-ga-ni-sa-ties ak-ko
 ord ge-ge-gaan met het Ener-gie-ak-koord []
  []
 
 File: ./images/Logo.png Graphic file (type png)
 <use ./images/Logo.png>
-Package pdftex.def Info: ./images/Logo.png used on input line 240.
+Package pdftex.def Info: ./images/Logo.png used on input line 242.
 (pdftex.def)             Requested size: 142.73071pt x 41.5545pt.
 File: ./images/rijkswaterstaat.jpg Graphic file (type jpg)
  <use ./images/rijkswaterstaat.jpg>
-Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 240.
+Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 242.
 (pdftex.def)             Requested size: 77.28821pt x 30.77475pt.
 
 
@@ -1146,9 +1146,9 @@ Missing character: There is no Ã in font cmss10!
 Missing character: There is no © in font cmss10!
 Missing character: There is no Ã in font cmss10!
 Missing character: There is no © in font cmss10!
-LaTeX Font Info:    Try loading font information for TS1+cmss on input line 261
+LaTeX Font Info:    Try loading font information for TS1+cmss on input line 263
 .
- (c:/texlive/2016/texmf-dist/tex/latex/base/ts1cmss.fd
+ (p:/texlive/2016/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 Missing character: There is no Ã in font cmss10!
@@ -1156,11 +1156,11 @@ Missing character: There is no ¶ in font cmss10!
 File: ./images/Logo.png Graphic file (type png)
 
 <use ./images/Logo.png>
-Package pdftex.def Info: ./images/Logo.png used on input line 281.
+Package pdftex.def Info: ./images/Logo.png used on input line 278.
 (pdftex.def)             Requested size: 142.73071pt x 41.5545pt.
 File: ./images/rijkswaterstaat.jpg Graphic file (type jpg)
  <use ./images/rijkswaterstaat.jpg>
-Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 281.
+Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 278.
 (pdftex.def)             Requested size: 77.28821pt x 30.77475pt.
 
 
@@ -1172,10 +1172,8 @@ Package Fancyhdr Warning: \headheight is too small (35.0pt):
 [4]
 
 LaTeX Warning: Citation 'Kavelbesluit:2015:Online' on page 5 undefined on input
- line 297.
+ line 299.
 
-Missing character: There is no Ã in font cmss10!
-Missing character: There is no « in font cmss10!
 File: ./images/Logo.png Graphic file (type png)
 <use ./images/Logo.png>
 Package pdftex.def Info: ./images/Logo.png used on input line 325.
@@ -1192,21 +1190,23 @@ Package Fancyhdr Warning: \headheight is too small (35.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [5]
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no « in font cmss10!
 Missing character: There is no â in font cmss10!
 Missing character: There is no € in font cmss10!
 Missing character: There is no ™ in font cmss10!
 
 
-LaTeX Warning: Citation 'Projectmanagement:2015:Book' on page 6 undefined on in
-put line 358.
+LaTeX Warning: Citation 'Grit:2015:Book' on page 6 undefined on input line 360.
+
 
 File: ./images/Logo.png Graphic file (type png)
 <use ./images/Logo.png>
-Package pdftex.def Info: ./images/Logo.png used on input line 367.
+Package pdftex.def Info: ./images/Logo.png used on input line 366.
 (pdftex.def)             Requested size: 142.73071pt x 41.5545pt.
 File: ./images/rijkswaterstaat.jpg Graphic file (type jpg)
  <use ./images/rijkswaterstaat.jpg>
-Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 367.
+Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 366.
 (pdftex.def)             Requested size: 77.28821pt x 30.77475pt.
 
 
@@ -1218,11 +1218,11 @@ Package Fancyhdr Warning: \headheight is too small (35.0pt):
 [6]
 File: ./images/Logo.png Graphic file (type png)
  <use ./images/Logo.png>
-Package pdftex.def Info: ./images/Logo.png used on input line 404.
+Package pdftex.def Info: ./images/Logo.png used on input line 409.
 (pdftex.def)             Requested size: 142.73071pt x 41.5545pt.
 File: ./images/rijkswaterstaat.jpg Graphic file (type jpg)
  <use ./images/rijkswaterstaat.jpg>
-Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 404.
+Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 409.
 (pdftex.def)             Requested size: 77.28821pt x 30.77475pt.
 
 
@@ -1233,18 +1233,41 @@ Package Fancyhdr Warning: \headheight is too small (35.0pt):
 
 [7]
 
-LaTeX Warning: Empty bibliography on input line 406.
+LaTeX Warning: Empty bibliography on input line 410.
+
+<Planning.PNG, id=231, 1190.19656pt x 274.77657pt>
+File: Planning.PNG Graphic file (type png)
+ <use Planning.PNG>
+Package pdftex.def Info: Planning.PNG used on input line 417.
+(pdftex.def)             Requested size: 1190.19366pt x 274.77588pt.
 
 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 409.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 409.
+File: ./images/Logo.png Graphic file (type png)
+<use ./images/Logo.png>
+Package pdftex.def Info: ./images/Logo.png used on input line 418.
+(pdftex.def)             Requested size: 142.73071pt x 41.5545pt.
+File: ./images/rijkswaterstaat.jpg Graphic file (type jpg)
+ <use ./images/rijkswaterstaat.jpg>
+Package pdftex.def Info: ./images/rijkswaterstaat.jpg used on input line 418.
+(pdftex.def)             Requested size: 77.28821pt x 30.77475pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (35.0pt): 
+ Make it at least 45.63454pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8 <./Planning.PNG>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 418.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 418.
+
 (./2016-11-22_PVA_Ricardo-Molenaar_Martijn-van-Essen_Plan-van-Aanpak_vA01.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 409.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 409.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 418.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 418.
 Package rerunfilecheck Info: File `2016-11-22_PVA_Ricardo-Molenaar_Martijn-van-
 Essen_Plan-van-Aanpak_vA01.out' has not changed.
-(rerunfilecheck)             Checksum: 19818FA879FF4AF0ACCF6A9509C9B584;1553.
+(rerunfilecheck)             Checksum: 0D01E220F714DDB997E003765CDC1CB5;1671.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1263,29 +1286,29 @@ jn-van-Essen_Plan-van-Aanpak_vA01.run.xml'.
 \openout1 = `2016-11-22_PVA_Ricardo-Molenaar_Martijn-van-Essen_Plan-van-Aanpak_
 vA01.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 409.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 418.
  ) 
 Here is how much of TeX's memory you used:
- 19865 strings out of 493013
- 327360 string characters out of 6136992
- 861162 words of memory out of 5000000
- 23107 multiletter control sequences out of 15000+600000
+ 19877 strings out of 493013
+ 327507 string characters out of 6136992
+ 861189 words of memory out of 5000000
+ 23114 multiletter control sequences out of 15000+600000
  19899 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,18n,54p,8883b,1699s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2016
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2016/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2016/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmssi10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfs
+ 45i,18n,53p,8883b,1695s stack positions out of 5000i,500n,10000p,200000b,80000s
+{p:/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<p:/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><p:/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><p:/texlive/2016/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmss8.pfb><p:/texlive/2016/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmssbx10.pfb><p:/texlive/2016/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmssi10.pfb><p:/texlive/2016/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><p:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfs
 s1095.pfb>
 Output written on 2016-11-22_PVA_Ricardo-Molenaar_Martijn-van-Essen_Plan-van-Aa
-npak_vA01.pdf (8 pages, 478264 bytes).
+npak_vA01.pdf (9 pages, 519509 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
- 227 compressed objects within 3 object streams
- 45 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 244 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 260 words of extra memory for PDF output out of 10000 (max. 10000000)
 
